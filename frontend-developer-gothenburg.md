@@ -58,9 +58,11 @@ We are looking for skilled frontend developers with deep JavaScript knowledge
 for our frontend team. Does this sound like you? Please write to us at
 jobb@5monkeys.se and we will get back to you shortly!
 
-Where's the office?  
+### Where's the office?
+
 We share a really [nice office] in central Gothenburg with architecture firm
-Kjellgren Kaminsky.  
+Kjellgren Kaminsky.
+
 Viktor Rydbergsgatan 14  
 41132 Göteborg
 
