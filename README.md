@@ -8,3 +8,4 @@ if you think you would be a great fit.
 
 [fe-got]: ./frontend-developer-gothenburg.md
 [be-got]: ./backend-developer-gothenburg.md
+
